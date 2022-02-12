@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Razer Mamba Elite Chroma",
+      "price": "600"
+    },
+    {
+      "id": 2,
+      "name": "Razer Black Window v2",
+      "price": 600
+    },
+    {
+      "id": 3,
+      "name": "Razer Kraken v2 Chroma",
+      "price": 400
+    },
+    {
+      "name": "teste1",
+      "price": "1",
+      "id": 4
+    }
+  ]
+}
